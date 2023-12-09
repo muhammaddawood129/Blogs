@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.blog-content {
+  cursor: pointer;
+}
+
+.blog-title {
+  color: #1976d2;
+}
+
+.blog-title:hover {
+  color: blueviolet;
+}
